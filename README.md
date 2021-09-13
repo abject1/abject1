@@ -1,4 +1,5 @@
-Bonjour a toute est a tous, en continuel dévelloppement sur mon server FiveM je dévellope également vos site web, n'hesitée pas a me contacter!
+Bonjour a toutes est a tous, création de base et de script FiveM et je développe également vos sites webs, n'hesitée pas a me contacter!
 instgram: @abject18
 twitter: @abject_gameur
 discord: abject#7708
+Mon discord d'entraide développement: https://discord.gg/KQDcjZGxtq
