@@ -20,7 +20,7 @@ My personnal portefolio : https://lucas-wurtz.fr (website in remake for 2024)
 -> Node.JS : 40%
 -> discord.js : 40%
 
-Founder from a_dev.bat community : https://discord.gg/KQDcjZGxtq | https://a-dev.ovh ( WebSite in developpement )
+Founder from a_dev.bat community : https://discord.gg/KQDcjZGxtq | https://a-dev.fr ( WebSite in developpement )
 
 Founder from Atradium's server :
 
